@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Foundation</title>
+</head>
+<body>
+    <link rel="stylesheet" href="style.css">
+    <header>
+        <h1> <i>Jaswanth Foundation</h1></i>
+    </header>
+        <fieldset>
+        <nav>
+            <a href="#"> Home</a> 
+            <a href="#"> Images</a>
+            <a href="#"> Affilicated Schools</a>
+            <a href="#"> Feedback</a>
+            <a href="#"> About Us</a>
+        </nav>
+    </fieldset>
+    <main>
+        <section>
+            <h2>Scholarships</h2>
+            <iframe width="33%" height="75%" src="https://www.youtube.com/embed/5pVVj6Va5to?si=J9FBmRTNYXtUfVGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe width="33%" height="75%" src="https://www.youtube.com/embed/ewARiav-b0w?si=Xk1pA3awLdbojzkg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe width="33%" height="75%" src="https://www.youtube.com/embed/lJIi3lRz72w?si=3qMX1CABsLx8qTDy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+        </section>
+        <section>
+            <h2>Free Courses Intiative</h2>
+            <iframe width="90%" height="50" src="https://www.youtube.com/embed/5DoUVAFaqac?si=_zA5MUBYVuJ4Pv-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </section>
+        <section>
+            <h2> OUR IDOLS</h2>
+            <img src="Jaswanth/tata.jpg" width="45%">
+            <img src="Jaswanth/vk found.jpg" width="45%">
+        </section>
+        <section>
+            <h2> OUR FOUNDER </h2>
+        <img src="Jaswanth/Jasu 2.jpg" width="350" height="500">
+        <h3>JASWANTH NELLI</h3>
+        <a href="https://jaswanthnelli.blogspot.com">Blog</a> |
+        <a href="www.jaswanathnelli2007@gamil.com">Email</a>  |
+        <a href="https://jaswanthnelli.blogspot.com">YouTube</a>
+    </section>
+    </main>
+    <footer>
+        <h4>@JASWANTH NELLI </h4>
+        <hr>
+        <a>contact us</a>
+    </footer>
+    
+</body>
+</html>
