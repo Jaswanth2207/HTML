@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jaswanth Payment form</title>
+</head>
+<body>
+    <form>
+        <h1> Jaswanth PAYMENT FORM</h1>
+        <h2>Contact Information</h2>
+        <p>Name:  <input type="text" name="name" required></p>
+        <fieldset>
+            <legend>Gender</legend>
+        <p>
+            Male <input type="radio" name="gender">
+            Female <input type="radio" name="gender">
+            others <input type="radio" name="gender">
+        </p>
+       
+        </fieldset>
+        <p>
+            Address: <textarea name="address" cols="100" rows="8"></textarea>
+        </p>
+        <p>
+            Pincode: <input type="number" name="pincode">
+        </p>
+        <p>
+            Email: <input type="email" name="email">
+        </p>
+        <p>Phone No. <input type="number" name="phone"></p>
+        <h2> Payment Information</h2>
+        <p>
+            Card type
+                <select name="card type">
+                <option value="">---select card type---</option>
+                <option value="Visa">Visa</option>
+                <option value="Rupay">Rupay</option>
+                <option value="Master card">Master card</option>
+            </select>
+        </p>
+        <p>
+            Card Number <input type="number" name="card number">
+        </p>
+        <p>Expiry Date: <input type="date" name="expiry">  </p>
+        <p>CVV :  <input type="password" name="cvv"></p>
+        <p>
+            Card Holder Name: <input type="text" name="holder name"> 
+        </p>
+        <input type="submit" value="Pay Now">
+
+    </form>
+</body>
+</html>
